@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#chatContainer {
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#chatMessages {
+  min-height: 200px;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.userMessage {
+  text-align: right;
+}
+
+.chatgptMessage {
+  text-align: left;
+}
+
+#userInputContainer {
+  margin-top: 10px;
+}
+
+#userInput {
+  width: 80%;
+  padding: 5px;
+}
+
+#sendButton {
+  width: 20%;
+  padding: 5px;
+}
