@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "dotenv-webpack": "^8.0.1",
+    "env": "^0.0.2"
+  }
+}
